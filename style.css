@@ -1,0 +1,44 @@
+body {
+    width: 100%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background: linear-gradient(rgb(255, 207, 215), rgb(181, 181, 255));
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    margin: 0;
+    padding: 0;
+}
+
+p {
+    text-align: center;
+    color: white;
+    text-shadow: rgb(from color r g b);
+    font-size: 40px;
+    font-weight: bold;
+}
+
+form{
+    text-align: center;
+}
+
+form input{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(83, 83, 83);
+    background-color: rgb(252, 242, 243);
+}
+
+form a {
+    text-decoration: none;
+    color: white;
+    padding: 5.5px;
+    font-weight: bold;
+    background-color: black;
+    margin-bottom: 50px;
+}
+
+label {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
